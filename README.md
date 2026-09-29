@@ -5,7 +5,7 @@ This project is a Pygame prototype of **SMITE**, an original top-down shooter in
 Built in Python using Pygame, this project helped me strengthen my object-oriented programming skills through practical application.
 
 Features include:
-- Title screen, pause menu, game over screen, and victory screen
+- Title screen, pause menu, settings, game over screen, and victory screen
 - Player movement and shooting
 - Tile-based map
 - Camera tracking
